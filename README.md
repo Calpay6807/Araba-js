@@ -13,4 +13,4 @@ HTML SCSS SASS Kullanarak yapmış olduğum basit githup clone
 <h1>Proje Gif</h1>
 
 
-<img src="/githup-clone.gif">
+<img src="./githup.gif">
